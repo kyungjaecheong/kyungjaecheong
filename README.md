@@ -18,11 +18,13 @@ Tech blog :
 
 ### 👋 Hello! I'm KyungJae Cheong 👋
 
+🌱 Codestates AI Bootcamp 15th : 2022.08 ~
+
 ---
 
 <details>
 
-<summary>🎓 Career & Course 🌱</summary>
+<summary>🎓 Careers 🌱</summary>
 
 - 🎓 The Degree of Bachelor of Science in Systems Biology (minor in Psychology) : 2010.03 ~ 2017.08
 - 🔬 Research Engineer : 2019.02 ~ 2021.01
