@@ -12,6 +12,8 @@ e-mail :
 Tech blog : 
 <a href="https://velog.io/@dankj1991"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungjaecheong&count_bg=%23000FFF&title_bg=%23666666&icon=nextdoor.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
+
 </div>
 
 ---
