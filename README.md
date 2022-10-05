@@ -69,7 +69,7 @@ Tech blog :
   
 <div align=left>
 
-![Cheong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungjaecheong&count_private=true&show_icons=true&theme=tokyonight)
+![Cheong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungjaecheong&count_private=true&show_icons=true&theme=buefy)
 
 </div>
 
