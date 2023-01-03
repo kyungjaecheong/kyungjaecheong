@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000080&fontColor=FFFFFF&height=300&section=header&text=KyungJae%20Cheong&animation=fadeIn&fontSize=90&desc=AI%20(Data%20Scientist,%20Data%20Analyst,%20Data%20Engineer)%20Entry&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000080&fontColor=FFFFFF&height=300&section=header&text=KyungJae%20Cheong&animation=fadeIn&fontSize=90&desc=Data%20Scientist%20(AI)%20Entry&descAlignY=75&descAlign=50)
 
 <div align=center>
 
