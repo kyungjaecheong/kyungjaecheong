@@ -88,6 +88,7 @@ Tech blog :
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=Koyeb&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"></a>
 
 </div>
