@@ -110,7 +110,7 @@ Tech blog :
 
 - Languages
 
-[![Cheong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungjaecheong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Cheong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyungjaecheong&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
