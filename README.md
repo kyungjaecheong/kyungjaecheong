@@ -4,14 +4,14 @@
 
 ### ![image](https://user-images.githubusercontent.com/109939415/193800942-af1e0f9e-1de4-40bd-9da5-3161b81f4b6f.png) Kyung-Jae,Cheong (정경재)
 ### ![image](https://user-images.githubusercontent.com/109939415/193801020-e9f69bc3-d671-4469-8c72-61902e441917.png) Daniel, Cheong
-
+<br>
 e-mail : 
 <a href="mailto:dankool@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></a>
 <a href="mailto:dankj1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
-
+<br><br>
 Tech blog : 
 <a href="https://velog.io/@dankj1991"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
-
+<br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyungjaecheong&count_bg=%23000FFF&title_bg=%23666666&icon=nextdoor.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false"/></a>
 
 </div>
@@ -20,7 +20,7 @@ Tech blog :
 
 ### 👋 Hello! I'm KyungJae Cheong 👋
 
-🌱 Codestates AI Bootcamp 15th : 2022.08 ~
+🌱 Portfolio : https://kyungjaecheong.github.io/
 
 ---
 
@@ -28,10 +28,10 @@ Tech blog :
 
 <summary>🎓 Careers 🌱</summary>
 
-- 🎓 The Degree of Bachelor of Science in Systems Biology (minor in Psychology) : 2010.03 ~ 2017.08
-- 🔬 Research Engineer : 2019.02 ~ 2021.01
-- 💻 Yonsei-NaverCloud Datascience Basic Course : 2021.07 ~ 2021.08
-- 🌱 Codestates AI Bootcamp 15th : 2022.08 ~
+- 🎓 Yonsei University, The Degree of Bachelor of Science in Systems Biology (minor in Psychology) : 2010.03 ~ 2017.08
+- 🔬 Severance Hospital, Research Engineer : 2019.02 ~ 2021.01
+- 💻 Yonsei-NaverCloud, Datascience Basic Course : 2021.07 ~ 2021.08
+- 🌱 Codestates, AI Bootcamp 15th : 2022.08 ~ 2023.02
 
 </details>
 
