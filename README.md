@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=000080&fontColor=FFFFFF&height=300&section=header&text=KyungJae%20Cheong&animation=fadeIn&fontSize=90&desc=Data%20Scientist%20(AI)%20Entry&descAlignY=75&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=000080&fontColor=FFFFFF&height=300&section=header&text=KyungJae%20Cheong&animation=fadeIn&fontSize=90&desc=Machine%20Learning%20(ML)%20Engineer%20&descAlignY=75&descAlign=50)
 
 <div align=center>
 
@@ -19,8 +19,8 @@ Tech blog :
 ---
 
 ### 👋 Hello! I'm KyungJae Cheong 👋
-
-🌱 Portfolio : https://kyungjaecheong.github.io/
+- 🌱 Algorigo Inc. (ML Engineer)
+- 💻 Portfolio : https://kyungjaecheong.github.io/
 
 ---
 
@@ -30,8 +30,9 @@ Tech blog :
 
 - 🎓 Yonsei University, The Degree of Bachelor of Science in Systems Biology (minor in Psychology) : 2010.03 ~ 2017.08
 - 🔬 Severance Hospital, Research Engineer : 2019.02 ~ 2021.01
-- 💻 Yonsei-NaverCloud, Datascience Basic Course : 2021.07 ~ 2021.08
-- 🌱 Codestates, AI Bootcamp 15th : 2022.08 ~ 2023.02
+- 🎓 Yonsei-NaverCloud, Datascience Basic Course : 2021.07 ~ 2021.08
+- 🎓 Codestates, AI Bootcamp 15th : 2022.08 ~ 2023.02
+- ⚙️ Algorigo Inc. (ML Engineer) : 2023.04 ~
 
 </details>
 
