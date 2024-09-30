@@ -32,7 +32,8 @@ Tech blog :
 - 🔬 Severance Hospital, Research Engineer : 2019.02 ~ 2021.01
 - 🎓 Yonsei-NaverCloud, Datascience Basic Course : 2021.07 ~ 2021.08
 - 🎓 Codestates, AI Bootcamp 15th : 2022.08 ~ 2023.02
-- ⚙️ Algorigo Inc. (ML Engineer) : 2023.04 ~
+- ⚙️ Algorigo Inc. (ML Engineer) : 2023.04 ~ 2024.08
+- 🎓 Zerobase, Back-End School 30th : 2024.10 ~
 
 </details>
 
@@ -45,12 +46,16 @@ Tech blog :
 ### [ Programming & Language ]
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 
 ### [ IDE & Environment ]
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"></a>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a>
@@ -60,7 +65,6 @@ Tech blog :
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white"></a>
-<img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white"></a>
