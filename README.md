@@ -19,7 +19,7 @@ Tech blog :
 ---
 
 ### 👋 Hello! I'm KyungJae Cheong 👋
-- 🌱 Algorigo Inc. (ML Engineer)
+- 🎓 Zerobase, Back-End School 30th : 2024.10 ~
 - 💻 Portfolio : https://kyungjaecheong.github.io/
 
 ---
